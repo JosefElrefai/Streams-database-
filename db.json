@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Stream 1",
+      "description": "This is a GREAT stream tbh",
+      "id": 1
+    },
+    {
+      "title": "Stream by Josef",
+      "description": "Amazing stream",
+      "userId": "100675776241176939779",
+      "id": 2
+    },
+    {
+      "title": "Josef is Streaming",
+      "description": "Description of the stream",
+      "userId": "100675776241176939779",
+      "id": 3
+    }
+  ]
+}
